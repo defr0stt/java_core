@@ -1,0 +1,2 @@
+20-3-2022 11:43:30 -- INFO : START OF THE PROGRAM
+20-3-2022 11:43:30 -- WARNING : Warning in the file
