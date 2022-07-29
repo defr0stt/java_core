@@ -28,6 +28,7 @@ public class StreamNewReview {
         );
 
         System.out.println(listTwo.stream().filter(x -> x>=20).findAny().get());
+        System.out.println(listTwo.stream().filter(x -> x>=200).findAny().orElse(null));
         System.out.println(listTwo.stream().count());
 
         listTwo.stream().toArray();
@@ -62,6 +63,7 @@ public class StreamNewReview {
     // .count() -> long; count of elements
     // .anyMatch/noneMatch(Predicate) -> boolean;   check by condition if elem is in list
     // .mapToInt - int statistic
+    // .orElse -> If a value is present, returns the value, otherwise returns other.
     //
     // Common :  filter + map,  filter + forEach,  min/max + get,
     //           sorted + forEach, filter + findAny + get
