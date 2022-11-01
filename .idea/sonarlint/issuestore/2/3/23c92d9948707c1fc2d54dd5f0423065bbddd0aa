@@ -1,0 +1,16 @@
+
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(²ı…¦ûÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(²ı…¦ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úĞ¦Åüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëèˆ¼
+K
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+y
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(²ı…¦ûÿÿÿÿ
+C	java:S108#")Either remove or fill this block of code.(²ı…¦ûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(µ¨éúÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ëèˆ¼
+K
+java:S2446)"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„—Ì“

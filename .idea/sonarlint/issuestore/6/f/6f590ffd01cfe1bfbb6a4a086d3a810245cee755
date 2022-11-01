@@ -1,0 +1,44 @@
+
+X
+java:S1854"BRemove this useless assignment to local variable "binaryOperator".(Ð„í¡
+W
+java:S1854"ARemove this useless assignment to local variable "unaryOperator".(ìŠƒå
+R
+java:S1854"<Remove this useless assignment to local variable "supplier".(ú›ÅÄ
+W
+java:S1854"<Remove this useless assignment to local variable "function".(›ÍÔ‚øÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "consumer".(öçÔ§úÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "predicate".(âÅá·øÿÿÿÿ
+m
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(âÅá·øÿÿÿÿ
+I
+java:S1481".Remove this unused "predicate" local variable.(âÅá·øÿÿÿÿ
+l
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(öçÔ§úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öçÔ§úÿÿÿÿ
+H
+java:S1481"-Remove this unused "consumer" local variable.(öçÔ§úÿÿÿÿ
+t
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(›ÍÔ‚øÿÿÿÿ
+W
+java:S1612"<Replace this lambda with method reference 'String::valueOf'.(›ÍÔ‚øÿÿÿÿ
+H
+java:S1481"-Remove this unused "function" local variable.(›ÍÔ‚øÿÿÿÿ
+g
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(ú›ÅÄ
+C
+java:S1481"-Remove this unused "supplier" local variable.(ú›ÅÄ
+l
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ìŠƒå
+E
+java:S1611"/Remove the parentheses around the "x" parameter(ìŠƒå
+H
+java:S1481"2Remove this unused "unaryOperator" local variable.(ìŠƒå
+m
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(Ð„í¡
+I
+java:S1481"3Remove this unused "binaryOperator" local variable.(Ð„í¡
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àËùõýÿÿÿÿ8ûòÆ³£0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ä ûøÿÿÿÿ

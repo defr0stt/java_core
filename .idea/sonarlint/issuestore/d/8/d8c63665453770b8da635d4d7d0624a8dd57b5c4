@@ -1,5 +1,5 @@
 
 E
 java:S3416"*Update this logger to use "LogDemo.class".(½öÇ½úÿÿÿÿ
-_
-java:S2259"IA "NullPointerException" could be thrown; "fileHandler" is nullable here.(ÿ¢ŸÇ
+f
+java:S2259"IA "NullPointerException" could be thrown; "fileHandler" is nullable here.(ÿ¢ŸÇ8ŸôáÛ0

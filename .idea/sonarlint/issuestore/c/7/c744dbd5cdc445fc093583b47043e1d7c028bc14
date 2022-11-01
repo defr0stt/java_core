@@ -1,0 +1,35 @@
+
+J
+java:S1611"/Remove the parentheses around the "x" parameter(™Ä€“ûÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(™Ä€“ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Ä€“ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+J
+java:S1611"/Remove the parentheses around the "x" parameter(åáã üÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(åáã üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åáã üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+D
+java:S2201")The return value of "count" must be used.(İıµÂıÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "x" parameter(‹Ø…®
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ğõ®'
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(íÿ‹¬ÿÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(®áÃp
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ôÒ˜Á
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(›ÑÅ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(¯ÅÙ‡
+k
+java:S1192"UDefine a constant instead of duplicating this literal "--------------------" 6 times.(Œ€ÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "first" 3 times.(’‡ñêùÿÿÿÿ
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßØè
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ä ûøÿÿÿÿ

@@ -197,6 +197,9 @@ public class collections
 
         set3 = EnumSet.of(Cars.Volkswagen, Cars.Lamborghini,
                 Cars.Mitsubishi, Cars.Ford);
+        if(set3.contains(Cars.Ford))
+            System.out.println(Cars.Ford);
+        // An EnumSet will be used when you have the need for a variable to assume more than one Enum value at the same time.
 
         // All of the elements in an enum set must come from a single enumeration type that is specified when
         // the set is created either explicitly or implicitly.

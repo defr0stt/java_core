@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mockito-all-2.0.2-beta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../other/JUint/mockito-all-2.0.2-beta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../other/JUint/mockito-core-4.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../other/JUint/mockito-junit-jupiter-4.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../other/JUint/mockito-all-2.0.2-beta.jar!/" />
+    </SOURCES>
+  </library>
+</component>
